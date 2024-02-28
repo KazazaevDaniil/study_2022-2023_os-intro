@@ -37,7 +37,7 @@ header-includes:
   * Студент бакалавриата
   * Российский университет дружбы народов
   * [1132231427@rudn.ru]
-  * <hhttps://github.com/KazazaevDaniil/study_2022-2023_os-intro>
+  * <https://github.com/KazazaevDaniil/study_2022-2023_os-intro>
 
 :::
 ::: {.column width="30%"}
